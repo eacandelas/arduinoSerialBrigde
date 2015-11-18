@@ -1,6 +1,6 @@
 #README.md
 
-Este sketch recive datos a traves del Serial de Arduino, y los reenvia hacia el Software Serial en caso del Arduino UNO o al Serial1 en caso del Arduino MEGA.
+Este sketch recibe datos a traves del Serial de Arduino, y los reenvia hacia el Software Serial en caso del Arduino UNO o al Serial1 en caso del Arduino MEGA.
 
 Tambien monitorea por datos desde los Software Serial y Serial1, reenviandolos a Serial.
 
